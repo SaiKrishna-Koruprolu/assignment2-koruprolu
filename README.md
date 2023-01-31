@@ -11,3 +11,12 @@ United States
 1. Mason Finley
 2. Lance Brooks
 3. Ian Waltz
+
+---
+# Unordered List of other teams
+India
+* Kamalpreet Kaur
+* Seema Punia
+    * Vikas Gowda
+    * Vinod Kumar
+* Anil Kumar
