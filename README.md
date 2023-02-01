@@ -35,3 +35,10 @@ India
 |Bhutan|Its awe-inspiring mountainous landscape is matched in its brilliance by the country's enchanting and vibrant culture. A striking place of magic and myth, the lush Himalayan kingdom of Bhutan brims with a wealth of natural beauty, vibrant culture, spiritual and historical attractions and intrepid adventure.|10 days|
 |Thailand|Thailand has emerged as one of the most visited tourist destinations in the world. What could be the reasons that people love to travel to this exotic destination? It could be the tranquil beaches, exotic cuisine, magnificent temples and scenery, colourful history, or cultural and archaeological sites.|8 days|
 |India|There are plenty of reasons to visit India – be it mountains or plains, beaches or backwaters, wildlife tours or adventure activities, secluded islands or bustling metropolitan, culinary delights or local drinks, spiritual holidays or romantic vacations.|30 days|
+
+---
+# Pithy Quotes
+
+>  "Before you criticize someone, you should walk a mile in their shoes. That way when you criticize them, you are a mile away from them and you have their shoes." *—Jack Handey*
+
+> "Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now."  *—Jerry*                    
