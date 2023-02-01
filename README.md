@@ -42,3 +42,29 @@ India
 >  "Before you criticize someone, you should walk a mile in their shoes. That way when you criticize them, you are a mile away from them and you have their shoes." *—Jack Handey*
 
 > "Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now."  *—Jerry*                    
+
+---
+
+# Code Fencing
+
+Test if String Starts With Certain Characters in PHP
+> How to check if a string starts with certain characters in PHP?
+The StartsWith() function is used to test whether a string begins with the given string or not. This function is case insensitive and it returns boolean value.
+
+<https://www.geeksforgeeks.org/php-startswith-and-endswith-functions/>
+
+```<?php 
+  
+function startsWith($string, $startString) { 
+  $len = strlen($startString); 
+  return (substr($string, 0, $len) === $startString); 
+} 
+
+// usage
+echo startsWith("cat", "c"); // true
+echo startsWith("dog", "x"); // false
+
+?>
+```
+
+<https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/>
